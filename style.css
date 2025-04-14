@@ -6,9 +6,13 @@
   }
   .contact-info{
     margin-left: 700px;
+    flex-direction: row;
+    display: flex;
   }
   .email-info{
     margin-right: 50px;
+    flex-direction: row;
+    display: flex;
   }
   .html{
     scroll-behavior: smooth;
@@ -26,7 +30,6 @@
     background-color: #163d45;
     color: white;
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
     padding: 8px 20px;
     font-size: 14px;

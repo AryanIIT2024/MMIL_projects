@@ -26,6 +26,7 @@
     background-color: #163d45;
     color: white;
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     padding: 8px 20px;
     font-size: 14px;
